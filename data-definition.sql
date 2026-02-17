@@ -1,4 +1,5 @@
 USE CompanyDB;
+
 Database changed
 mysql> CREATE TABLE Departments (
          department_id INT PRIMARY KEY,
@@ -44,6 +45,10 @@ INSERT INTO Employees (employee_id, first_name, last_name, hire_date, salary, de
 SELECT * FROM Departments;
 
 SELECT * FROM Employees;
+
+
+
+
 
 
 
